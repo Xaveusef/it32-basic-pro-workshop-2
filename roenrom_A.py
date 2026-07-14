@@ -24,15 +24,7 @@ transfer_team = float(transfer_team)
 print (f"จำนวนเงินที่ลูกน้องแต่ละคนได้ {transfer_team} บาท")
 print ("------------------------------------")
 
-name = input("ชื่อ: ")
-age = input("อายุ: ")
-height = input("ส่วนสูง: ")
-pocket = input("เงินติดตัว: ")
 
-if age > 18 :
-    print (f"คุณผ่านเกณฑ์")
-else :
-    print (f"คุณไม่ผ่านเกณฑ์เนื่อจากคุณอายุ {age} ปี")
 ##print (f"{quantity} กระบอก")
 ##print (f"{cost_price} บาท")
 ##print (f"{sell_price} บาท")
